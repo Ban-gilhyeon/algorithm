@@ -1,4 +1,42 @@
-import problems.programmers.*;
+import problems.java.programmers.SolutionAnt;
+import problems.java.programmers.SolutionAsNum;
+import problems.java.programmers.SolutionBestAlbum;
+import problems.java.programmers.SolutionCarpet;
+import problems.java.programmers.SolutionChangeBinary;
+import problems.java.programmers.SolutionCheckBracket;
+import problems.java.programmers.SolutionClothes;
+import problems.java.programmers.SolutionCntPY;
+import problems.java.programmers.SolutionCollatz;
+import problems.java.programmers.SolutionDiv;
+import problems.java.programmers.SolutionEmergencyBoat;
+import problems.java.programmers.SolutionFibo;
+import problems.java.programmers.SolutionFindKim;
+import problems.java.programmers.SolutionGymSuit;
+import problems.java.programmers.SolutionHanoiTop;
+import problems.java.programmers.SolutionHideNum;
+import problems.java.programmers.SolutionHindex;
+import problems.java.programmers.SolutionHoshade;
+import problems.java.programmers.SolutionJadenCase;
+import problems.java.programmers.SolutionJumpAndWorp;
+import problems.java.programmers.SolutionLeastCommonMuliple;
+import problems.java.programmers.SolutionMaxMin;
+import problems.java.programmers.SolutionMaxNum;
+import problems.java.programmers.SolutionMidChar;
+import problems.java.programmers.SolutionMinDelete;
+import problems.java.programmers.SolutionNextMax;
+import problems.java.programmers.SolutionNotCompletion;
+import problems.java.programmers.SolutionPhoneKetmon;
+import problems.java.programmers.SolutionPhoneNumsList;
+import problems.java.programmers.SolutionRefeatWord;
+import problems.java.programmers.SolutionRemovePairStr;
+import problems.java.programmers.SolutionReverse;
+import problems.java.programmers.SolutionReverseStrSort;
+import problems.java.programmers.SolutionRorgame;
+import problems.java.programmers.SolutionSort;
+import problems.java.programmers.SolutionSqare;
+import problems.java.programmers.SolutionSumNothingNum;
+import problems.java.programmers.SolutionTargetNum;
+import problems.java.programmers.SolutionWm;
 
 public class Main {
     public static void main(String[] args) {
