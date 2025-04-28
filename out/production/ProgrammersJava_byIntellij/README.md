@@ -1,2 +1,11 @@
-# ProgrammersJava_byIntellij
-자바를 사용하여 Programmers 문제 격파 IntelliJ원본
+# 알고리즘 문제를 JAVA를 활용하여 풀이 
+
+알고리즘 문제의 출처
+- Programmers
+- Beakjun
+- SWEA
+- 한국 정보 올림피아
+
+## 목표 
+- 하루 한 문제 풀이
+- 코드를 작성하기 전 종이에 풀이법을 작성한 후 코드 작성 
