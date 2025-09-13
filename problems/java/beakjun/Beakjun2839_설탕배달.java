@@ -1,4 +1,4 @@
-package problems.java.beakjoon;
+package problems.java.beakjun;
 
 import java.io.BufferedReader;
 import java.io.IOException;

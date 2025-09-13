@@ -1,4 +1,4 @@
-package problems.java.beakjoon;
+package problems.java.beakjun;
 
 import java.util.ArrayList;
 import java.util.Collections;
