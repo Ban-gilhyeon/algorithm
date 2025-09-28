@@ -19,7 +19,6 @@ public class Solution_모음사전 {
             }
         }
         System.out.println(answer);
-
     }
 
     private static void dfs(String str, int len){
