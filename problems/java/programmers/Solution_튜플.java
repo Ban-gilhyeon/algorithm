@@ -6,7 +6,7 @@ public class Solution_튜플 {
     public static void main(String[] args) {
         String s = "{{4,2,3},{3},{2,3,4,1},{2,3}}";
         //String s = "{{123}}";
-        
+
         /*s = s.replaceAll("[{}]", "");
         String[] arr = s.split(",");*/
         String[] arr = s.split("},");
